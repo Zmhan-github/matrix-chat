@@ -1,0 +1,14 @@
+{
+    "customHsUrl": "https://api.msg.otau.org",
+    "customIsUrl": "https://api.msg.otau.org",
+    "default_hs_url": "https://api.msg.otau.org",
+    "default_is_url": "https://api.msg.otau.org",
+    "disable_custom_urls": true,
+    "disable_guests": true,
+    "disable_login_language_selector": true,
+    "disable_3pid_login": true,
+    "brand": "Otau",
+    "default_federate": true,
+    "welcomePageUrl": "home.html",
+    "default_theme": "light"
+}
